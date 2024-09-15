@@ -10,6 +10,10 @@ import serv3 from "./img/serv3.png"
 import logo from "./img/logo-porto33.png"
 import cris from "./img/cristiano.png"
 import leo from "./img/leo.png"
+import jose from "./img/jose.png"
+import julia from "./img/julia.jpg"
+
+
 
 
 function App() {
@@ -118,11 +122,11 @@ function App() {
           </div>
           <div className="integrante">
             <img src={leo} alt="João Silva" />
-            <p>João Silva - Back-End Developer</p>
+            <p>Leonardo - Back-End Developer</p>
           </div>
           <div className="integrante">
-            <img src={img4} alt="Ana Souza" />
-            <p>Ana Souza - UI/UX Designer</p>
+            <img src={julia} alt="Ana Souza" />
+            <p>Julia - UI/UX Designer</p>
           </div>
         </div>
       </section>
@@ -139,7 +143,7 @@ function App() {
             </div>
           </div>
           <div className="feedback-item">
-            <img src={img4} alt="Cristiano Robinho" className="feedback-img" />
+            <img src={jose} alt="Cristiano Robinho" className="feedback-img" />
             <div className="feedback-text">
               <p>Cristiano Robinho</p>
               <p>Minha experiência com a Porto Seguro foi incrível! O suporte fornecido foi além das minhas expectativas, mostrando um cuidado genuíno com o cliente. </p>
