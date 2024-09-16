@@ -37,5 +37,4 @@ Atualmente, dois plugins oficiais estão disponíveis:
 Certifique-se de escolher o plugin que melhor se adapta às suas necessidades. Para projetos pequenos e médios, ambos oferecem uma excelente experiência de desenvolvimento.
 
 ## FIGMA
-https://www.figma.com/design/mHZOQWad8hmQU6vnQZ7ZNR/Porto-4?m=auto&t=C1n0f6eDKyT0Sqgp-6
-
+https://www.figma.com/design/mHZOQWad8hmQU6vnQZ7ZNR/Porto-4?node-id=0-1&t=lkkh0FFHAcYfv6Bn-1
