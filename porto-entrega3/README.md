@@ -35,3 +35,7 @@ Atualmente, dois plugins oficiais estão disponíveis:
 - O plugin `@vitejs/plugin-react-swc` é uma alternativa que usa SWC (Super-fast Web Compiler), oferecendo um desempenho ainda melhor em compilações, especialmente em grandes projetos.
 
 Certifique-se de escolher o plugin que melhor se adapta às suas necessidades. Para projetos pequenos e médios, ambos oferecem uma excelente experiência de desenvolvimento.
+
+## FIGMA
+https://www.figma.com/design/mHZOQWad8hmQU6vnQZ7ZNR/Porto-4?m=auto&t=C1n0f6eDKyT0Sqgp-6
+
