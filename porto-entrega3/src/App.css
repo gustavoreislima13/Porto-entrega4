@@ -55,9 +55,9 @@ body {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  padding: 150px 5vw; /* Ajusta o espaçamento lateral */
-  background-color: #fff; /* Fundo branco para o hero section */
-  height: 90vh; /* Ocupa 90% da altura da tela */
+  padding: 150px 5vw; 
+  background-color: #fff; 
+  height: 90vh; 
 }
 
 .hero-text {
@@ -172,13 +172,13 @@ body {
   align-items: center;
   padding: 60px 5vw;
   background-color: #fff;
-  flex-wrap: wrap; /* Garante que os itens se ajustem em telas menores */
-  gap: 20px; /* Espaçamento entre a imagem e o texto */
+  flex-wrap: wrap;
+  gap: 20px; 
 }
 
 .vantagem-text {
   flex: 1;
-  max-width: 45%; /* Limitar a largura máxima para que o texto não ocupe toda a tela */
+  max-width: 45%;
 }
 
 .vantagem-text h2 {
