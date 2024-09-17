@@ -1,4 +1,4 @@
-/* General Styles */
+
 * {
   margin: 0;
   padding: 0;
@@ -8,7 +8,7 @@
 body {
   font-family: 'Arial', sans-serif;
   background-color: #f4f4f9;
-  overflow-x: hidden; /* Impede rolagem horizontal */
+  overflow-x: hidden; 
 }
 
 .App {
@@ -23,13 +23,13 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 20px 50px;
-  background-color: white; /* Define o fundo do cabeçalho como branco */
+  background-color: white; 
   position: fixed;
   top: 0;
   width: 100%;
-  z-index: 100; /* Garante que o header sempre fique no topo */
-  transition: background-color 0.3s ease; /* Transição suave ao alterar o fundo */
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Adiciona uma leve sombra */
+  z-index: 100; 
+  transition: background-color 0.3s ease; 
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
 }
 
 .logo {
